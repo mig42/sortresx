@@ -21,7 +21,7 @@ IO on .zip files using portions of zlib
 lines	file(s)
 4299	code/qcommon/unzip.c
 4546	libs/pak/unzip.cpp
-Copyright (C) 1998 Gilles Vollant
+Copyright (C) 2008 Gilles Vollant
 zlib is Copyright (C) 1995-1998 Jean-loup Gailly and Mark Adler
 
   This software is provided 'as-is', without any express or implied
